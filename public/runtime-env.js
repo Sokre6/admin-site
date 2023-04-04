@@ -1,0 +1,1 @@
+window.__RUNTIME_CONFIG__ = {"REACT_APP_AUTH_REALM":"aurodomus","REACT_APP_AUTH_CLIENT_ID":"aurodomus-admin","REACT_APP_AUTH_URL":"https://keycloak.dev.deepit.hr","REACT_APP_HTTP_API_GATEWAY":"http://localhost:8180","REACT_APP_TINY_MCE_EDITOR_API_KEY":"xvkme8oqmf8ihleqacqpr6p6rktuxrdoml8d4o8eciykymis"};
